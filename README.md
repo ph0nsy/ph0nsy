@@ -63,8 +63,8 @@ I am on the verge of completing my Bachelor's degree in Computer Engineering at 
 
 <br>
 <p align="center">
-  <img align="center" height="250px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy">
-  <img align="center" height="250px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true">
+  <img align="center" height="200px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy">
+  <img align="center" height="200px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true">
 </p>
 <!--
 **ph0nsy/ph0nsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
