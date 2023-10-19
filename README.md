@@ -8,7 +8,7 @@
 <hr>
 
 <p align="center">
-  <a target="_blank" href="https://linktr.ee/ph0nsy_"><img alt="Linktree" src="https://img.shields.io/badge/-ph0nsy-green?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/ph0nsy_"></a>
+  <a target="_blank" href="https://linktr.ee/ph0nsy_"><img alt="Linktree" src="https://img.shields.io/badge/-ph0nsy-olive?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/ph0nsy_"></a>
   <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/-ph0nsy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ph0nsy/"></a>
   <a target="_blank" href="https://ph0nsy.itch.io"><img alt="Itch.io Profile" src="https://img.shields.io/badge/-ph0nsy-red?style=flat&logo=Itch.io&logoColor=white&link=https://ph0nsy.itch.io"></a>
   <a target="_blank" href="https://www.youtube.com/@ph0nsy"><img alt="YouTube Channel" src="https://img.shields.io/badge/-ph0nsy-grey?style=flat&logo=YouTube&logoColor=red&link=https://www.youtube.com/@ph0nsy"></a>
