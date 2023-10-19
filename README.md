@@ -20,7 +20,7 @@
 
 <br>
 
-I am on the verge of completing my Bachelor's degree in Computer Engineering at [Francisco de Vitoria University](https://ufv.es)) and have a deep passion for Game Development, Artificial Intelligence and a wide range of other subjects. And, just like anyone who is passionate about something, I also love learning and sharing my enthusiasm and knowledge about them with others.
+I am a student on the verge of completing my Bachelor's degree in Computer Engineering at [Francisco de Vitoria University](https://ufv.es)) and I have a deep passion for Game Development, Artificial Intelligence and a wide range of other subjects. And, just like anyone who is passionate about something, I also love learning and sharing my enthusiasm and knowledge about them with others.
 
 <br>
 
@@ -66,6 +66,7 @@ I am on the verge of completing my Bachelor's degree in Computer Engineering at 
   <img align="center" height="200px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy">
   <img align="center" height="200px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true">
 </p>
+
 <!--
 **ph0nsy/ph0nsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
