@@ -27,7 +27,7 @@ I am on the verge of completing my Bachelor's degree in Computer Engineering at 
 ## Skills ⚙️
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,unreal,mysql,git,github,html,css,bootstrap,js,nodejs,py,tensorflow,vercel&perline=8" /> </p>
 
-## Projects
+## Projects 🗂️
 
 ### Games & Assets 🎓
 
@@ -60,9 +60,11 @@ I am on the verge of completing my Bachelor's degree in Computer Engineering at 
 </pre>
 
 ## Stats 📊
+
+<br>
 <p align="center">
-  <img align="center" height="200px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true"><br><br>
-  <img align="center" height="400px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy"> 
+  <img align="center" height="250px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy">
+  <img align="center" height="250px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true">
 </p>
 <!--
 **ph0nsy/ph0nsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
