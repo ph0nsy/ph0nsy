@@ -46,7 +46,7 @@ I am a student on the verge of completing my Bachelor's degree in Computer Engin
 ### Knowledge Sharing 🎓
 
 <pre>
-├── Z80 Assembly Guide <a href="ph0nsy.github.io/z80-Assembly-Guide/">🔗</a>
+├── Z80 Assembly Guide <a href="https://ph0nsy.github.io/z80-Assembly-Guide/">🔗</a>
 ├── Java Front-Back Template <a href="https://github.com/ph0nsy/dis_extraordinaria_ejemplo">🔗</a>
 ├── AI & Datamining Archive <a href="https://github.com/ph0nsy/AI_Projects">🔗</a>
 ├── Youtube Channel <a href="www.youtube.com/@ph0nsy">🔗</a>
