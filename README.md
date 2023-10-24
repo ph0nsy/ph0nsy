@@ -20,7 +20,7 @@
 
 <br>
 
-I am a student on the verge of completing my Bachelor's degree in Computer Engineering at [Francisco de Vitoria University](https://ufv.es) and I have a deep passion for Game Development, Artificial Intelligence and a wide range of other subjects. And, just like anyone who is passionate about something, I also love learning and sharing my enthusiasm and knowledge about them with others.
+I am a student on the verge of completing my Bachelor's degree in Computer Engineering at [Francisco de Vitoria University](https://www.ufv.es/welcome-to-ufv-madrid/) and I have a deep passion for Game Development, Artificial Intelligence and a wide range of other subjects. And, just like anyone who is passionate about something, I also love learning and sharing my enthusiasm and knowledge about them with others.
 
 <br>
 
