@@ -29,7 +29,7 @@ I am a student on the verge of completing my Bachelor's degree in Computer Engin
 
 ## Projects 🗂️
 
-### Games & Assets 🎓
+### Games & Assets 🎮
 
 <pre>
 ├── Global Game Jam <a href="https://v3.globalgamejam.org/users/ph0nsy">🔗</a>
