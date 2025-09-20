@@ -1,17 +1,17 @@
-<img alt="Banner" src="https://raw.githubusercontent.com/ph0nsy/ph0nsy/main/Unlimited%20bacon%20but%20no%20games.png">
+<img alt="Banner" src="https://raw.githubusercontent.com/ph0nsy/ph0nsy/main/LinkedInBanner.png">
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="Unemployed" src="https://img.shields.io/badge/Job_status-Unemployed-teal.svg"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="Unemployed" src="https://img.shields.io/badge/Looking_for-Internship-maroon.svg"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="Looking for Internship" src="https://img.shields.io/badge/Looking_for-Internship%20|%20Junior%20Position-maroon.svg"></a>
 </p>
 
 <hr>
 
 <p align="center">
-  <a target="_blank" href="https://linktr.ee/ph0nsy_"><img alt="Linktree" src="https://img.shields.io/badge/-ph0nsy-olive?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/ph0nsy_"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/-ph0nsy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ph0nsy/"></a>
-  <a target="_blank" href="https://ph0nsy.itch.io"><img alt="Itch.io Profile" src="https://img.shields.io/badge/-ph0nsy-red?style=flat&logo=Itch.io&logoColor=white&link=https://ph0nsy.itch.io"></a>
-  <a target="_blank" href="https://www.youtube.com/@ph0nsy"><img alt="YouTube Channel" src="https://img.shields.io/badge/-ph0nsy-grey?style=flat&logo=YouTube&logoColor=red&link=https://www.youtube.com/@ph0nsy"></a>
+  <!--<a target="_blank" href="https://linktr.ee/ph0nsy_"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-olive?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/ph0nsy_"></a>-->
+  <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ph0nsy/"></a>
+  <a target="_blank" href="https://ph0nsy.itch.io"><img alt="Itch Profile" src="https://img.shields.io/badge/-Itch.io-red?style=flat&logo=Itch.io&logoColor=white&link=https://ph0nsy.itch.io"></a>
+  <a target="_blank" href="https://www.youtube.com/@ph0nsy"><img alt="YouTube Channel" src="https://img.shields.io/badge/-YouTube-grey?style=flat&logo=YouTube&logoColor=red&link=https://www.youtube.com/@ph0nsy"></a>
 </p>
 
 <h3 align="center">
