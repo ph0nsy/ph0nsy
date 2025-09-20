@@ -11,7 +11,9 @@
   <!--<a target="_blank" href="https://linktr.ee/ph0nsy_"><img alt="Linktree" src="https://img.shields.io/badge/-Linktree-olive?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/ph0nsy_"></a>-->
   <a target="_blank" href="https://www.linkedin.com/in/ph0nsy/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ph0nsy/"></a>
   <a target="_blank" href="https://ph0nsy.itch.io"><img alt="Itch Profile" src="https://img.shields.io/badge/-Itch.io-red?style=flat&logo=Itch.io&logoColor=white&link=https://ph0nsy.itch.io"></a>
-  <a target="_blank" href="https://www.youtube.com/@ph0nsy"><img alt="YouTube Channel" src="https://img.shields.io/badge/-YouTube-grey?style=flat&logo=YouTube&logoColor=red&link=https://www.youtube.com/@ph0nsy"></a>
+  <!--<a target="_blank" href="https://www.youtube.com/@ph0nsy"><img alt="YouTube Channel" src="https://img.shields.io/badge/-YouTube-grey?style=flat&logo=YouTube&logoColor=red&link=https://www.youtube.com/@ph0nsy"></a>-->
+  <a href="https://github.com/ph0nsy"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/ph0nsy?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
+  <a href="https://github.com/ph0nsy"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/ph0nsy?style=flat&labelColor=1f1f1f&color=2EA967&logo=github"></a>
 </p>
 
 <h3 align="center">
@@ -60,25 +62,12 @@ I am a student on the verge of completing my Bachelor's degree in Computer Engin
 └── Pkmn Armageddon <a href="https://ph0nsy.github.io/PkmnArmageddonOfficial/">🔗</a>
 </pre>
 
+<!--
 ## Stats 📊
 
 <br>
 <p align="center">
-  <img align="center" height="200px" alt="Ph0nsy's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=ph0nsy">
-  <img align="center" height="200px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=tokyonight-duo&hide_border=true">
+  <img height="200px" alt="Ph0nsy's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ph0nsy&theme=dark&hide_border=true">
+  <img height="200px" alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=ph0nsy&theme=dark&show_icons=true&hide_border=true&count_private=false" />
 </p>
-
-<!--
-**ph0nsy/ph0nsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
