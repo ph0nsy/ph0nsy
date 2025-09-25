@@ -49,9 +49,9 @@ I am a student on the verge of completing my Bachelor's degree in Computer Engin
 
 <pre>
 ├── Z80 Assembly Guide <a href="https://ph0nsy.github.io/z80-Assembly-Guide/">🔗</a>
-├── Java Front-Back Template <a href="https://github.com/ph0nsy/dis_extraordinaria_ejemplo">🔗</a>
+<!--├── Java Front-Back Template <a href="https://github.com/ph0nsy/dis_extraordinaria_ejemplo">🔗</a>-->
 ├── AI & Datamining Archive <a href="https://github.com/ph0nsy/AI_Projects">🔗</a>
-├── Youtube Channel <a href="https://www.youtube.com/@ph0nsy">🔗</a>
+<!--├── Youtube Channel <a href="https://www.youtube.com/@ph0nsy">🔗</a>-->
 └── More Stuff Coming
 </pre>
 
