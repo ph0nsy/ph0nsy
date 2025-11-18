@@ -27,9 +27,9 @@
  
 ```
 
-Hi! I’m a game programmer with a strong focus on gameplay, camera systems, and UI. I recently completed my Master’s in **Game Programming** at _U-Tad_, where I worked on the full development of Lady Umbrella, contributing both _gameplay_ (camera system) and _UI_ (menus + navigation) features. I also hold a Computer Science degree from Francisco de Vitoria University (2025).
+Hi! I’m a game programmer with a strong focus on gameplay, camera systems, and UI. I recently completed my Master’s in **Game Programming** at _U-Tad_, where I worked on the full development of Lady Umbrella, contributing both _gameplay_ (camera system) and _UI_ (menus + navigation) features. I also hold a **Computer Science** degree from _Francisco de Vitoria University_ (2025).
 
-Outside of academic projects, I love building small experiments, tools, and prototypes — and I’ve participated in every Global Game Jam since 2022. I’m passionate about game development, AI, and anything that pushes me to learn, iterate, and create better experiences.
+Outside of academic projects, I love building small experiments, tools, and prototypes — and I’ve participated in every **Global Game Jam** since 2022. I’m passionate about game development, AI, and anything that pushes me to learn, iterate, and create better experiences.
 
 <br>
 
