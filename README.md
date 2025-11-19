@@ -100,6 +100,7 @@ ___  ____              _ _
 
 <pre>
 ├── AI & Datamining Archive <a href="https://github.com/ph0nsy/AI_Projects">🔗</a>
+├── Sound of the Solar System <a href="https://ph0nsy.github.io/Sounds-of-the-Solar-System/">🔗</a>
 ├── POV:D <a href="https://pov-d.vercel.app">🔗</a>
 └── Pkmn Armageddon <a href="https://ph0nsy.github.io/PkmnArmageddonOfficial/">🔗</a>
 </pre>
