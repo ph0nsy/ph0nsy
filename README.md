@@ -55,7 +55,7 @@ These days, I'm particularly interested in systems programming, developer tools,
   
 ---
 
-## Latest Project - R36S Input Driver
+## Latest Project - [R36S Input Driver](https://github.com/ph0nsy/r36s-simple-input)
 
 A low-level software project focused on interfacing with the R36S handheld's physical input hardware and exposing its controls to software running on the device.
 The project has been an opportunity to explore software development beyond the usual application layer, including:
