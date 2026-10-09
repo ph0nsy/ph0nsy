@@ -132,26 +132,23 @@ A collection of AI and data-mining projects for university.
 
 A small mathematical/game-development experiment exploring line mapping and rail-based movement.
 
-#### 💿 [DVD Dodge](https://ph0nsy.itch.io/dvd-dodge)
-
-A small arcade-style experiment built at the time I was at university work.
-
 #### 🧪 [Shitpost Status](https://ph0nsy.itch.io/shitpost-status)
 
 A university project that exists primarily because sometimes the best way to learn is to make something ridiculous.
 
-#### 🗺️ [Misterious Places](https://ph0nsy.itch.io/misterious-places-game-concept)
-
-An early game-development university project from 2019.
-
 #### ☀️ [Sounds of the Solar System](https://ph0nsy.github.io/Sounds-of-the-Solar-System/)
 
 An interactive experiment exploring the idea of turning data from the Solar System into sound.
+<!--
+#### 🗺️ [Misterious Places](https://ph0nsy.itch.io/misterious-places-game-concept)
+An early game-development university project from 2019.
 
 #### 👁️ [POV:D](https://pov-d.vercel.app)
-
 Small web-based project.
 
+#### 💿 [DVD Dodge](https://ph0nsy.itch.io/dvd-dodge)
+A small arcade-style experiment built at the time I was at university work.
+-->
 ___
 
 <p align="center">
